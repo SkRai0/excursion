@@ -1,7 +1,8 @@
 body{
     background-color: black;
+    text-align: center;
 }
-
+/* Header */
 header h1{
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -9,3 +10,55 @@ header h1{
     text-align: center;
     font-weight: normal;
 }
+
+/*Download Link*/
+a{
+    color: aquamarine;
+    font-size: 18px;
+}
+
+/*Video*/
+#video{
+    margin-top: 20px;
+}
+
+/*H2*/
+#guide{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+    color: white;
+    font-weight: 300;
+}
+
+/*Description*/
+#desc{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+    font-weight: normal;
+}
+
+/* Phone */
+#images{
+    text-align: center;
+    display: block;
+}
+
+/* Coming */
+#coming{
+    color: white;
+    font-size: 42px;
+    font-weight: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ /* end */
+ #copy{
+     text-align: right;
+ }
+ 
+ #last{
+    font-size: 21px;
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+ }
